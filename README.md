@@ -52,8 +52,8 @@ You do **not** need Python or GDAL installed on your host machine.
 Option A: Git (recommended)
 
 ```bash
-git clone <PASTE_YOUR_REPO_URL_HERE>
-cd <REPO_FOLDER_NAME>
+git clone https://github.com/anthonyklemm/bluetopo-local-explorer
+cd bluetopo-local-explorer
 ```
 
 Option B: Download ZIP from GitHub
@@ -91,8 +91,8 @@ docker compose down
 Option A: Git (Git Bash / Windows Terminal)
 
 ```bash
-git clone <PASTE_YOUR_REPO_URL_HERE>
-cd <REPO_FOLDER_NAME>
+git clone https://github.com/anthonyklemm/bluetopo-local-explorer
+cd bluetopo-local-explorer
 ```
 
 Option B: Download ZIP from GitHub
