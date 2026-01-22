@@ -1,0 +1,13 @@
+services:
+  bluetopo-viz:
+    build: .
+    ports:
+      - "127.0.0.1:8777:8777"
+    volumes:
+      - ./data:/data
+    environment:
+      - DOCKER=1
+      # Optional: point somewhere else inside container
+      # - BLUETOPO_DATA_ROOT=/data
+    env_file:
+      - .env

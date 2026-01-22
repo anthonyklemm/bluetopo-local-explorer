@@ -1,0 +1,9 @@
+# Python deps (GDAL comes from the OS packages in the Dockerfile)
+numpy<2
+pillow
+folium
+boto3
+botocore
+tqdm
+matplotlib
+openai

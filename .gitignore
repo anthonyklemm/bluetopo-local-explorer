@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Local data/cache (can be large)
+data/
+web/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist/
+
+# Virtualenvs
+.venv/
+venv/
+ENV/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
