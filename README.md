@@ -9,6 +9,8 @@ A local-first BlueTopo explorer that:
 **Local compute:** All processing runs on your machine via Docker.  
 **Network use:** The app downloads BlueTopo data (and will only call OpenAI if you enable the Chat Assistant).
 
+Read about it here in my blog post: https://medium.com/python-in-plain-english/chatting-with-the-seafloor-building-an-ai-interface-for-noaa-bluetopo-0aca4351c430
+
 ---
 
 ## Quickstart
